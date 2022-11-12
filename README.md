@@ -42,3 +42,21 @@ For this part of the EDA I'm identifying the type of variables in the dataset. I
 - Analyze the scale of each attribute and determine which ones you would transfer (e.g., cateogorical features).
 
 - Discuss how you plan to select important features.
+
+## Task 4: Build many models to predict selling prices
+
+- Random Forest Model
+
+- Linear Regression Model
+
+- KNN Model
+
+- SVR Model
+
+- Decision Tree Regressor Model
+
+- Gradient Boosting Regressor Model
+
+- Ada Boost Regressor Model
+
+- XGB Regressor Model
