@@ -59,3 +59,8 @@ For this part of the EDA I'm identifying the type of variables in the dataset. I
 - Ada Boost Regressor Model
 
 - XGB Regressor Model
+
+
+## Results
+
+![image](https://user-images.githubusercontent.com/68587770/202899540-dc06eb63-aae8-439f-8f01-d4b51bda109e.png)
