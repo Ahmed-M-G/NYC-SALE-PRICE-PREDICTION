@@ -1,5 +1,4 @@
 # NYC SALE PRICE PREDICTION
- NYC SALE PRICE PREDICTION
  
 <p align="center">
   <img src="https://img.freepik.com/premium-vector/new-york-city-illustration-united-states-modern-metropolis-isolated-clipart-white-background-us-world-famous-landmarks-tourist-attractions-cartoon-design-elements_575670-2204.jpg?w=2000" />
